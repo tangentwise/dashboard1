@@ -10,7 +10,7 @@ sector_map = {
     "last-mile": ["UPS", "FDX", "AMZN", "EXPD", "DPSTF"],
     "mro-dist": ["AIT", "DXP", "GWW", "FAST", "MSM", "WCC"],
     "gig-economy": ["UBER", "DASH", "LYFT", "TOST"],
-    "robotics-smid": ["TER", "IRBT", "RKDA", "ROBO", "BOTZ"] # Teradyne, iRobot, etc.
+    "robotics-smid": ["SYM", "STRC", "RWLK", "SERV", "EKSO"] 
 }
 
 def sync_sector(folder, ticker_list):
