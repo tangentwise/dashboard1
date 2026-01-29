@@ -74,20 +74,24 @@
     <div class="chart-container">
         <canvas id="tangentChart"></canvas>
     </div>
-    <div class="footer-info">
-        <div class="info-card">
-            <span id="update-ts" style="font-weight: bold; color: var(--primary);">Loading...</span><br><br>
-            <strong>Market-Cap Weighted Index:</strong>
-            <p>Unlike a simple average, this benchmark weights each ticker by its valuation (Market Cap for Stocks, Net Assets for ETFs). Larger companies have a proportional impact on the index movement.</p>
-        </div>
-        <div class="info-card">
-            <strong>Legend Controls:</strong>
-            <ul>
-                <li><strong>Click</strong> a ticker to toggle its visibility.</li>
-                <li><strong>Weighted Logic:</strong> The black line reflects the true "gravity" of the sector based on company size.</li>
-            </ul>
-        </div>
+   <div class="footer-info">
+    <div class="info-card">
+        <span id="update-ts" style="font-weight: bold; color: var(--primary);">Loading...</span><br><br>
+        <strong>Market-Cap & Net Asset Weighted Index</strong>
+        <p>
+            This benchmark is constructed using valuation-based weights—Market Capitalization for equities and Net Assets for ETFs—rather than a simple equal-weighted average. 
+            As a result, larger constituents exert proportionally greater influence on index performance, reflecting real-world capital allocation and market structure.
+        </p>
     </div>
+    <div class="info-card">
+        <strong>Chart Interaction & Methodology Notes</strong>
+        <ul>
+            <li><strong>Legend Controls:</strong> Click a ticker to isolate or toggle individual series for focused comparison.</li>
+            <li><strong>Weighted Index Line:</strong> The black index line represents aggregate sector performance adjusted for constituent size and capitalization.</li>
+        </ul>
+    </div>
+</div>
+
 </div>
 
 <div id="details-grid"></div>
