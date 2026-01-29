@@ -10,7 +10,7 @@ sector_map = {
     "last-mile": ["UPS", "FDX", "AMZN", "EXPD", "DPSTF", "XPO", "JBHT"],
     "mro-dist": ["AIT", "DXP", "GWW", "FAST", "MSM", "WCC"],
     "gig-economy": ["UBER", "DASH", "LYFT", "TOST"],
-    "robotics-smid": ["SYM", "STRC", "RWLK", "SERV", "EKSO"],
+    "robotics-smid": ["SYM", "RWLK", "SERV", "EKSO", "NVST"],
     "automation-infra": ["EMR", "HON", "ABB", "SIEGY", "KEYS"],
     "spatial-intelligence": ["TRMB", "GRMN", "CGNX", "MTLS", "ARBE"]
 }
