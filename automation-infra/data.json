@@ -3,9 +3,9 @@
     "metadata": {
       "name": "Emerson Electric Co.",
       "summary": "Emerson Electric Co., a technology and software company, provides various solutions in the Americas, Asia, the Middle East, Africa, and Europe. It operates through Final Control, Measurement & Analytical, Discrete Automation, Safety & Productivity, Control Systems & Software, and Test & Measurement segments. The Final Control segment provides control valves, isolation valves, shutoff valves, pressure relief valves, pressure safety valves, actuators, and regulators for process and hybrid industries under Anderson Greenwood, Bettis, Crosby, Fisher, Keystone, KTM, and Vanessa brands. The Measurement & Analytical segment supplies intelligent instrumentation measuring the physical properties of liquids or gases, such as pressure, temperature, level, flow, acoustics, corrosion, pH, conductivity, water quality, toxic gases, and flame under the Flexim, Micro Motion, and Rosemount brands. The Discrete Automation segment includes solenoid valves, pneumatic valves, valve position indicators, pneumatic cylinders and actuators, air preparation equipment, pressure and temperature switches, electric linear motion solutions, programmable automation control systems and software, electrical distribution equipment, and materials joining solutions used primarily in discrete industries under the Afag, Appleton, ASCO, Aventics, Branson, Movicon, PACSystems, SolaHD, TESCOM, and TopWorx brands. The Safety & Productivity segment delivers tools for professionals and homeowners that support infrastructure, promote safety, and enhance productivity under the Greenlee, Klauke, ProTeam, and RIDGID brands. The Control Systems & Software segment provides control systems and software that control plant processes by collecting and analyzing information from measurement devices in the plant under the DeltaV and Ovation brands. The Test & Measurement offers software-connected automated test and measurement systems. The company was incorporated in 1890 and is headquartered in Saint Louis, Missouri.",
-      "valuation": 84772659200,
+      "valuation": 84750172160,
       "ytd_growth": "0.0%",
-      "total_return": "46.2%",
+      "total_return": "46.16%",
       "type": "Stock",
       "holdings": "N/A"
     },
@@ -104,7 +104,7 @@
       },
       {
         "date": "2026-01",
-        "price": 150.76
+        "price": 150.72
       }
     ]
   },
@@ -221,9 +221,9 @@
     "metadata": {
       "name": "Siemens Aktiengesellschaft",
       "summary": "Siemens Aktiengesellschaft, a technology company, focuses in the areas of automation and digitalization in Europe, Commonwealth of Independent States, Africa, the Middle East, the Americas, Asia, and Australia. It operates through Digital Industries, Smart Infrastructure, Mobility, Siemens Healthineers, and Siemens Financial Services (SFS) segments. The Digital Industries segment provides automation systems and software for factories, numerical control systems, servo motors, drives and inverters, and integrated automation systems for machine tools and production machines; process control systems, machine-to-machine communication products, sensors and radio frequency identification systems; production and product lifecycle management software, and simulation and testing of mechatronic system. The Smart Infrastructure segment offers products, systems, solutions, services, and software to support sustainable transition from fossil and renewable energy  sources; sustainable buildings and communities; and buildings, electrification, and electrical products. The Mobility segment provides rail passenger and freight transportation, such as metro systems, trams and light rail, and commuter trains, as well as trains and passenger coaches; locomotives and solutions for automated transportation and leasing; products and solutions for rail automation and electrification; maintenance and digital services; and digital and cloud-based solutions, and related services. The Siemens Healthineers segment develops, manufactures, and sells various diagnostic and therapeutic products and services; and provides clinical consulting and training services. The Siemens Financial Services segment offers debt and equity investments; leasing, lending, and working capital; structured, equipment, and project financing; and financial advisory services. The company was founded in 1847 and is headquartered in Munich, Germany.",
-      "valuation": 239993651200,
+      "valuation": 240516431872,
       "ytd_growth": "0.0%",
-      "total_return": "63.76%",
+      "total_return": "64.11%",
       "type": "Stock",
       "holdings": "N/A"
     },
@@ -322,7 +322,7 @@
       },
       {
         "date": "2026-01",
-        "price": 153.79
+        "price": 154.12
       }
     ]
   },
@@ -330,9 +330,9 @@
     "metadata": {
       "name": "Keysight Technologies, Inc.",
       "summary": "Keysight Technologies, Inc. provides electronic design and test solutions worldwide. The company operates through Communications Solutions Group and Electronic Industrial Solutions Group segments. It offers electronic design and test software, instrumentation, systems, and related services used in the design, simulation, validation, manufacturing, installation, and optimization of communication systems in wireless, data center ecosystem, enterprise, and aerospace, defense, and government end markets. The company also develops and deploys communications products and services; and operates communications networks. In addition, it provides electronic design, test and simulation software, instrumentation, systems, computer-aided engineering solutions, and related services used in the design, simulation, validation, manufacturing, installation, and optimization of electronic equipment in the automotive and energy, semiconductor solutions, and general electronics industries. Further, the company offers product support; technical and application support for hardware, software, and solutions; and professional services, such as installation, training, engineering, optimization of equipment and solution adoption, utilization, and integration services. Additionally, it provides oscilloscopes; generators, sources and power supplies; software products; analyzers; wireless products; network test and security; modular instruments; meters; network visibility; and other products, as well as KeysightCare support plans, calibration, repair, technology refresh, test as a service, network/security, consulting, financial alternatives, education, software testing, support, managed, device vulnerability analysis, support portal, and used equipment services. Keysight Technologies, Inc. was founded in 1939 and is headquartered in Santa Rosa, California.",
-      "valuation": 38011101184,
+      "valuation": 38000791552,
       "ytd_growth": "0.0%",
-      "total_return": "43.38%",
+      "total_return": "43.34%",
       "type": "Stock",
       "holdings": "N/A"
     },
@@ -431,7 +431,7 @@
       },
       {
         "date": "2026-01",
-        "price": 221.23
+        "price": 221.17
       }
     ]
   }

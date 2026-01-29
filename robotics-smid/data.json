@@ -108,43 +108,6 @@
       }
     ]
   },
-  "STRC": {
-    "metadata": {
-      "name": "Strategy Inc",
-      "summary": "Strategy Inc, together with its subsidiaries, operates as a bitcoin treasury company in the United States, Europe, the Middle East, Africa, and internationally. The company offers investors varying degrees of economic exposure to Bitcoin by offering a range of securities, including equity and fixed income instruments. It also provides AI-powered enterprise analytics software, including Strategy One, which provides non-technical users with the ability to directly access novel and actionable insights for decision-making; and Strategy Mosaic, a universal intelligence layer that offers enterprises with consistent definitions and governance across data sources, regardless of where that data resides or which tools access it. The company was formerly known as MicroStrategy Incorporated and changed its name to Strategy Inc in August 2025. The company was incorporated in 1989 and is headquartered in Tysons Corner, Virginia.",
-      "valuation": 0,
-      "ytd_growth": "0.0%",
-      "total_return": "5.89%",
-      "type": "Stock",
-      "holdings": "N/A"
-    },
-    "prices": [
-      {
-        "date": "2025-08",
-        "price": 92.73
-      },
-      {
-        "date": "2025-09",
-        "price": 92.84
-      },
-      {
-        "date": "2025-10",
-        "price": 95.88
-      },
-      {
-        "date": "2025-11",
-        "price": 94.07
-      },
-      {
-        "date": "2025-12",
-        "price": 97.0
-      },
-      {
-        "date": "2026-01",
-        "price": 98.19
-      }
-    ]
-  },
   "SERV": {
     "metadata": {
       "name": "Serve Robotics Inc.",
@@ -352,6 +315,115 @@
       {
         "date": "2026-01",
         "price": 8.39
+      }
+    ]
+  },
+  "NVST": {
+    "metadata": {
+      "name": "Envista Holdings Corporation",
+      "summary": "Envista Holdings Corporation, together with its subsidiaries, develops, manufactures, markets, and sells dental products in the United States, China, and internationally. The company operates in two segments, Specialty Products & Technologies, and Equipment & Consumables. The Specialty Products & Technologies segment offers dental implant systems, guided surgery systems, biomaterials, and prefabricated and custom-built prosthetics to oral surgeons, prosthodontists and periodontists, and general dentist; and brackets and wires, tubes and bands, archwires, clear aligners, digital orthodontic treatments, retainers, and other orthodontic laboratory products. This segment also provides software packages, which include DTX Studio Implant; DTX Studio Lab; and DTX Studio Clinic, a software package offered with its imaging products. It offers its products under the Nobel Biocare, Alpha-Bio Tec, Implant Direct, Nobel Procera, Ormco, Spark, Orascoptic, Damon, Insignia, AOA brands. The Equipment & Consumables segment provides dental equipment and supplies, including digital imaging systems, software, and other visualization/magnification systems; endodontic systems and related products; restorative materials, rotary burs, impression materials, bonding agents, and cements; and infection prevention products. This segment offers its products under the Dexis, DTX Studio, Kerr, Metrex, Total Care, Pentron, Optibond, Harmonize, Sonicfill, Sybron Endo, and CaviWipes to dental offices, clinics, and hospitals. Envista Holdings Corporation was incorporated in 2018 and is headquartered in Brea, California.",
+      "valuation": 3886990592,
+      "ytd_growth": "0.0%",
+      "total_return": "13.27%",
+      "type": "Stock",
+      "holdings": "N/A"
+    },
+    "prices": [
+      {
+        "date": "2024-02",
+        "price": 20.65
+      },
+      {
+        "date": "2024-03",
+        "price": 21.38
+      },
+      {
+        "date": "2024-04",
+        "price": 19.68
+      },
+      {
+        "date": "2024-05",
+        "price": 19.36
+      },
+      {
+        "date": "2024-06",
+        "price": 16.63
+      },
+      {
+        "date": "2024-07",
+        "price": 17.07
+      },
+      {
+        "date": "2024-08",
+        "price": 18.26
+      },
+      {
+        "date": "2024-09",
+        "price": 19.76
+      },
+      {
+        "date": "2024-10",
+        "price": 20.97
+      },
+      {
+        "date": "2024-11",
+        "price": 22.29
+      },
+      {
+        "date": "2024-12",
+        "price": 19.29
+      },
+      {
+        "date": "2025-01",
+        "price": 20.52
+      },
+      {
+        "date": "2025-02",
+        "price": 19.98
+      },
+      {
+        "date": "2025-03",
+        "price": 17.26
+      },
+      {
+        "date": "2025-04",
+        "price": 16.08
+      },
+      {
+        "date": "2025-05",
+        "price": 18.27
+      },
+      {
+        "date": "2025-06",
+        "price": 19.54
+      },
+      {
+        "date": "2025-07",
+        "price": 18.89
+      },
+      {
+        "date": "2025-08",
+        "price": 21.18
+      },
+      {
+        "date": "2025-09",
+        "price": 20.37
+      },
+      {
+        "date": "2025-10",
+        "price": 20.35
+      },
+      {
+        "date": "2025-11",
+        "price": 20.9
+      },
+      {
+        "date": "2025-12",
+        "price": 21.71
+      },
+      {
+        "date": "2026-01",
+        "price": 23.39
       }
     ]
   }

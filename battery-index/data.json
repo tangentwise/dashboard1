@@ -235,7 +235,7 @@
       "summary": "The fund invests in financial instruments that ProShare Advisors believes, in combination, should track the performance of the index. The index is designed to measure the performance of companies in the S&P Global Broad Market Index engaged in the mining of cobalt, lithium, and nickel\u2014base metals used to produce batteries. Under normal circumstances, it will invest at least 80% of its total assets in components of the index or in instruments with similar economic characteristics. It is non-diversified.",
       "valuation": 9058504,
       "ytd_growth": "0.0%",
-      "total_return": "124.27%",
+      "total_return": "125.27%",
       "type": "ETF",
       "holdings": [
         "SGML.V",
@@ -340,7 +340,7 @@
       },
       {
         "date": "2026-01",
-        "price": 63.29
+        "price": 63.57
       }
     ]
   },
@@ -350,7 +350,7 @@
       "summary": "The Trust holds long positions in index futures that have settlement values at expiration based on the level of the S&P GSCI-ER at that time, and earning interest on its non-cash Collateral Assets used to satisfy applicable margin requirements on those index futures positions. The index reflects the return of the S&P GSCI-ER, together with the return on specified U.S. Treasury securities that are deemed to have been held to collateralize a hypothetical long position in the futures contracts comprising the S&P GSCI\u2122.",
       "valuation": 1081672832,
       "ytd_growth": "0.0%",
-      "total_return": "22.87%",
+      "total_return": "22.96%",
       "type": "ETF",
       "holdings": []
     },
@@ -449,7 +449,7 @@
       },
       {
         "date": "2026-01",
-        "price": 25.95
+        "price": 25.97
       }
     ]
   }
