@@ -17,5 +17,5 @@ jobs:
           git config --global user.name "TangentwiseBot"
           git config --global user.email "bot@tangentwise.com"
           git add battery-index/data.json
-          git commit -m "Monday Refresh: Battery Data" || exit 0
-          git push
+          # Only commit if there are actually changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Monday Refresh: Battery Data" && git push origin main)
