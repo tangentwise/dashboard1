@@ -22,7 +22,7 @@ jobs:
           pip install yfinance pandas
 
       - name: Run Master Sync
-        run: python dashboard1-sync.py
+        run: python visuals/dashboard1-sync.py
 
       - name: Commit and Push Changes
         run: |
