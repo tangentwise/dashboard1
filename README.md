@@ -1,2 +1,2 @@
-# battery-data
+# data
 Battery Data
