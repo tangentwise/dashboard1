@@ -39,4 +39,4 @@ os.makedirs("last-mile", exist_ok=True)
 with open("last-mile/data.json", "w") as f:
     json.dump(data_dict, f, indent=2)
 
-print("Logistics batch sync complete.")
+print("Last Mile batch sync complete.")
