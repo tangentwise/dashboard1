@@ -3,23 +3,19 @@
     "metadata": {
       "name": "Global X Lithium & Battery Tech ETF",
       "summary": "The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts (\"ADRs\") and Global Depositary Receipts (\"GDRs\") based on the securities in the underlying index. The underlying index is designed to measure broad-based equity market performance of global companies involved in the lithium industry. The fund is non-diversified.",
-      "valuation": 1482110976,
-      "ytd_growth": "0.0%",
-      "total_return": "54.24%",
+      "valuation": 1669999744,
+      "ytd_growth": "1.63%",
+      "total_return": "59.43%",
       "type": "ETF",
       "holdings": [
         "RIO",
         "ALB",
-        "002371.SZ",
+        "006400.KS",
         "SQM",
-        "6752.T"
+        "002371.SZ"
       ]
     },
     "prices": [
-      {
-        "date": "2024-02",
-        "price": 45.35
-      },
       {
         "date": "2024-03",
         "price": 44.59
@@ -111,6 +107,10 @@
       {
         "date": "2026-01",
         "price": 69.95
+      },
+      {
+        "date": "2026-02",
+        "price": 71.09
       }
     ]
   },
@@ -118,23 +118,19 @@
     "metadata": {
       "name": "Sprott Lithium Miners ETF",
       "summary": "The fund will, under normal circumstances, invest at least 80% of its total assets in securities of the index. The index is designed to track the performance of companies that derive at least 50% of their revenue and/or assets from mining, exploration, development, or production of lithium. The index generally consists of from 40 to 50 constituents. The fund is non-diversified.",
-      "valuation": 41312896,
-      "ytd_growth": "0.0%",
-      "total_return": "40.76%",
+      "valuation": 58867524,
+      "ytd_growth": "-2.16%",
+      "total_return": "44.97%",
       "type": "ETF",
       "holdings": [
         "LTR.AX",
         "ALB",
-        "SQM",
         "01772",
+        "SQM",
         "PLS.AX"
       ]
     },
     "prices": [
-      {
-        "date": "2024-02",
-        "price": 9.2
-      },
       {
         "date": "2024-03",
         "price": 8.74
@@ -226,6 +222,10 @@
       {
         "date": "2026-01",
         "price": 12.95
+      },
+      {
+        "date": "2026-02",
+        "price": 12.67
       }
     ]
   },
@@ -233,23 +233,19 @@
     "metadata": {
       "name": "Proshares S&P Global Core Battery Metals ETF",
       "summary": "The fund invests in financial instruments that ProShare Advisors believes, in combination, should track the performance of the index. The index is designed to measure the performance of companies in the S&P Global Broad Market Index engaged in the mining of cobalt, lithium, and nickel\u2014base metals used to produce batteries. Under normal circumstances, it will invest at least 80% of its total assets in components of the index or in instruments with similar economic characteristics. It is non-diversified.",
-      "valuation": 9058504,
-      "ytd_growth": "0.0%",
-      "total_return": "104.36%",
+      "valuation": 14723505,
+      "ytd_growth": "-0.68%",
+      "total_return": "98.96%",
       "type": "ETF",
       "holdings": [
-        "SGML.V",
+        "5541.T",
         "LTR.AX",
-        "PLS.AX",
+        "INCO.JK",
         "IGO.AX",
-        "SQM"
+        "ALB"
       ]
     },
     "prices": [
-      {
-        "date": "2024-02",
-        "price": 28.22
-      },
       {
         "date": "2024-03",
         "price": 28.79
@@ -341,6 +337,10 @@
       {
         "date": "2026-01",
         "price": 57.67
+      },
+      {
+        "date": "2026-02",
+        "price": 57.28
       }
     ]
   },
@@ -348,17 +348,13 @@
     "metadata": {
       "name": "iShares S&P GSCI Commodity-Indexed Trust",
       "summary": "The Trust holds long positions in index futures that have settlement values at expiration based on the level of the S&P GSCI-ER at that time, and earning interest on its non-cash Collateral Assets used to satisfy applicable margin requirements on those index futures positions. The index reflects the return of the S&P GSCI-ER, together with the return on specified U.S. Treasury securities that are deemed to have been held to collateralize a hypothetical long position in the futures contracts comprising the S&P GSCI\u2122.",
-      "valuation": 1081672832,
-      "ytd_growth": "0.0%",
-      "total_return": "20.64%",
+      "valuation": 1088205824,
+      "ytd_growth": "-2.2%",
+      "total_return": "12.96%",
       "type": "ETF",
       "holdings": []
     },
     "prices": [
-      {
-        "date": "2024-02",
-        "price": 21.12
-      },
       {
         "date": "2024-03",
         "price": 22.06
@@ -450,6 +446,10 @@
       {
         "date": "2026-01",
         "price": 25.48
+      },
+      {
+        "date": "2026-02",
+        "price": 24.92
       }
     ]
   }

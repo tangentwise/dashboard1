@@ -3,17 +3,13 @@
     "metadata": {
       "name": "United Parcel Service, Inc.",
       "summary": "United Parcel Service, Inc., a package delivery and logistics provider, offers transportation and delivery services. It operates through two segments, U.S. Domestic Package and International Package. The U.S. Domestic Package segment offers time-definite delivery services for express letters, documents, packages and palletized freight through air and ground services in the United States. The International Package segment provides small package operations in Europe, the Indian sub-continent, the Middle East and Africa, Canada and Latin America, and Asia. The company offers a range of guaranteed day- and time-definite international shipping services; day-definite services; cross-border ground package delivery; contract-only, e-commerce solutions for non-urgent, and cross-border shipments; and international service for urgent and palletized shipments. It also provides international air and ocean freight forwarding, contract logistics, custom brokerage and insurance, mail services, healthcare logistics, distribution, and post-sales services. United Parcel Service, Inc. was founded in 1907 and is headquartered in Atlanta, Georgia.",
-      "valuation": 90115522560,
-      "ytd_growth": "0.0%",
-      "total_return": "-19.74%",
+      "valuation": 99549560832,
+      "ytd_growth": "10.47%",
+      "total_return": "-12.54%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
-      {
-        "date": "2024-02",
-        "price": 132.34
-      },
       {
         "date": "2024-03",
         "price": 134.16
@@ -105,6 +101,10 @@
       {
         "date": "2026-01",
         "price": 106.22
+      },
+      {
+        "date": "2026-02",
+        "price": 117.34
       }
     ]
   },
@@ -112,17 +112,13 @@
     "metadata": {
       "name": "FedEx Corporation",
       "summary": "FedEx Corporation, together with its subsidiaries, provides transportation, e-commerce, and business services in the United States and internationally. It operates through Federal Express and FedEx Freight segments. The company offers transportation services, including express, freight, less-than-truckload freight, and time-specific freight-shipping; and small-package ground delivery services. It also provides e-commerce and digital solutions; dataworks; printing and shipping management, including digital printing, professional finishing, document creation, design solutions, direct mail, signs and graphics, custom-branded boxes, copying, computer rental, free Wi-Fi, corporate print solutions, shredding, expedited U.S. passport processing and renewal, and digital notarization; packing services, as well as packing supplies and boxes; document and business services; and retail access for package transportation. In addition, the company offers logistics services, air and ocean freight-forwarding and cargo transportation, specialty transportation, customs brokerage and clearance, trade management tools and data, and door-to-door solutions; and third party logistics and supply chain management solutions, such as inbound logistics, warehousing and distribution, fulfillment, contract packaging and product configuration, systems integration, returns process and disposition, test, repair, refurbishment, and product liquidation. Further, it provides sales, marketing, administrative, information technology, and back-office support services. FedEx Corporation was founded in 1971 and is headquartered in Memphis, Tennessee.",
-      "valuation": 76036644864,
-      "ytd_growth": "0.0%",
-      "total_return": "35.22%",
+      "valuation": 87121838080,
+      "ytd_growth": "14.58%",
+      "total_return": "33.13%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
-      {
-        "date": "2024-02",
-        "price": 238.32
-      },
       {
         "date": "2024-03",
         "price": 277.35
@@ -214,24 +210,24 @@
       {
         "date": "2026-01",
         "price": 322.25
+      },
+      {
+        "date": "2026-02",
+        "price": 369.23
       }
     ]
   },
   "AMZN": {
     "metadata": {
       "name": "Amazon.com, Inc.",
-      "summary": "Amazon.com, Inc. engages in the retail sale of consumer products, advertising, and subscriptions service through online and physical stores in North America and internationally. The company operates through three segments: North America, International, and Amazon Web Services (AWS). It also manufactures and sells electronic devices, including Kindle, fire tablets, fire TVs, echo, ring, blink, and eero; and develops and produces media content. In addition, the company offers programs that enable sellers to sell their products in its stores; and programs that allow authors, independent publishers, musicians, filmmakers, Twitch streamers, skill and app developers, and others to publish and sell content. Further, it provides compute, storage, database, analytics, machine learning, and other services, as well as advertising services through programs, such as sponsored ads, display, and video advertising. Additionally, the company offers Amazon Prime, a membership program. The company's products offered through its stores include merchandise and content purchased for resale and products offered by third-party sellers. It also provides AgentCore services, such as AgentCore Runtime, AgentCore Memory, AgentCore Observability, AgentCore Identity, AgentCore Gateway, AgentCore Browser, and AgentCore Code Interpreter. It serves consumers, sellers, developers, enterprises, content creators, advertisers, and employees. Amazon.com, Inc. was incorporated in 1994 and is headquartered in Seattle, Washington.",
-      "valuation": 2558168662016,
-      "ytd_growth": "0.0%",
-      "total_return": "35.38%",
+      "summary": "Amazon.com, Inc. engages in the retail sale of consumer products, advertising, and subscriptions service through online and physical stores in North America and internationally. The company operates through three segments: North America, International, and Amazon Web Services (AWS). It also manufactures and sells electronic devices, including Kindle, fire tablets, fire TVs, echo, ring, blink, and eero; and develops and produces media content. In addition, the company offers programs that enable sellers to sell their products in its stores; and programs that allow authors, independent publishers, musicians, filmmakers, Twitch streamers, skill and app developers, and others to publish and sell content. Further, it provides compute, storage, Artificial intelligence, database, analytics, machine learning, and other services, as well as advertising services through programs, such as sponsored ads, display, and video advertising. Additionally, the company offers Amazon Prime, a membership program. The company's products offered through its stores include merchandise and content purchased for resale and products offered by third-party sellers. It serves consumers, sellers, developers, enterprises, content creators, advertisers, and employees. The company was incorporated in 1994 and is headquartered in Seattle, Washington.",
+      "valuation": 2257768677376,
+      "ytd_growth": "-12.11%",
+      "total_return": "16.6%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
-      {
-        "date": "2024-02",
-        "price": 176.76
-      },
       {
         "date": "2024-03",
         "price": 180.38
@@ -323,6 +319,10 @@
       {
         "date": "2026-01",
         "price": 239.3
+      },
+      {
+        "date": "2026-02",
+        "price": 210.32
       }
     ]
   },
@@ -330,17 +330,13 @@
     "metadata": {
       "name": "Expeditors International of Washington, Inc.",
       "summary": "Expeditors International of Washington, Inc., together with its subsidiaries, provides logistics services in the Americas, North Asia, South Asia, Europe, and MAIR. The company offers airfreight services, such as air freight consolidation and forwarding; ocean freight and ocean services, including ocean freight consolidation, direct ocean forwarding, and order management; customs brokerage and other services, import, intra-continental ground transportation and delivery, and warehousing and distribution services; and customs clearance, purchase order management, vendor consolidation, time-definite transportation services, temperature-controlled transit, cargo insurance, specialized cargo monitoring and tracking, and other logistics solutions. It also provides optimization, trade compliance consulting, cargo insurance, cargo security, and solutions. In addition, it acts as a freight consolidator or as an agent for the airline that carries the shipment. Further, the company provides ancillary services that include preparation of shipping and customs documentation, packing, crating, insurance services, and the preparation of documentation to comply with local import and export laws. Its customers include retailing and wholesaling; electronics; healthcare; technology; and industrial and manufacturing companies. The company was incorporated in 1979 and is headquartered in Bellevue, Washington.",
-      "valuation": 21788252160,
-      "ytd_growth": "0.0%",
-      "total_return": "37.52%",
+      "valuation": 22398984192,
+      "ytd_growth": "2.8%",
+      "total_return": "39.07%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
-      {
-        "date": "2024-02",
-        "price": 116.74
-      },
       {
         "date": "2024-03",
         "price": 118.67
@@ -432,6 +428,10 @@
       {
         "date": "2026-01",
         "price": 160.54
+      },
+      {
+        "date": "2026-02",
+        "price": 165.04
       }
     ]
   },
@@ -439,17 +439,13 @@
     "metadata": {
       "name": "Deutsche Post AG",
       "summary": "Deutsche Post AG operates as a mail and logistics company in Germany, rest of Europe, the Americas, the Asia Pacific, the Middle East, and Africa. The company operates through five segments: Express; Global Forwarding, Freight; Supply Chain; eCommerce; and Post & Parcel Germany. The Express segment offers time-definite courier and express services to business and private customers. The Global Forwarding, Freight segment provides air, ocean, and overland freight forwarding services; and offers multimodal and sector-specific solutions. The Supply Chain segment delivers customized logistics services and supply chain solutions to its customers based on modular components, including warehousing and transport services, as well as value-added services. The eCommerce segment provides parcel delivery and non-time definite international cross-border services. The Post & Parcel Germany segment transports, sorts, and delivers documents and goods; and offers additional services, such as registered mail, insured items, redirection, and storage. Deutsche Post AG was incorporated in 1995 and is headquartered in Bonn, Germany.",
-      "valuation": 64859049984,
-      "ytd_growth": "0.0%",
-      "total_return": "30.27%",
+      "valuation": 66957778944,
+      "ytd_growth": "3.24%",
+      "total_return": "44.2%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
-      {
-        "date": "2024-02",
-        "price": 41.99
-      },
       {
         "date": "2024-03",
         "price": 39.16
@@ -541,24 +537,24 @@
       {
         "date": "2026-01",
         "price": 54.7
+      },
+      {
+        "date": "2026-02",
+        "price": 56.47
       }
     ]
   },
   "XPO": {
     "metadata": {
       "name": "XPO, Inc.",
-      "summary": "XPO, Inc., together with its subsidiaries, provides freight transportation services in the United States, North America, France, the United Kingdom, and rest of Europe. The company operates in two segments, North American Less-Than-Truckload (LTL) and European Transportation. The North American LTL segment provides shippers with geographic density and day-definite domestic and cross-border services to the U.S., Mexico, Canada, and the Caribbean. The European Transportation segment offers dedicated truckload, LTL, truck brokerage, managed transportation, last mile, freight forwarding, and warehousing and multimodal solutions, such as road-rail and road-short sea combinations to an extensive base of customers within the consumer, trade, and industrial markets. The company was formerly known as XPO Logistics, Inc. and changed its name to XPO, Inc. in December 2022. The company is based in Greenwich, Connecticut.",
-      "valuation": 17441740800,
-      "ytd_growth": "0.0%",
-      "total_return": "23.1%",
+      "summary": "XPO, Inc., together with its subsidiaries, provides freight transportation services in the United States, North America, France, the United Kingdom, and rest of Europe. The company operates in two segments, North American Less-Than-Truckload (LTL) and European Transportation. The North American LTL segment provides shippers with geographic density and day-definite domestic and cross-border services to the U.S., Mexico, Canada, and the Caribbean. The European Transportation segment offers dedicated truckload, LTL, truck brokerage, managed transportation, last mile, freight forwarding, and warehousing and multimodal solutions to an extensive base of customers within the consumer, trade, and industrial markets. The company was formerly known as XPO Logistics, Inc. and changed its name to XPO, Inc. in December 2022. The company was founded in 1989 and is based in Greenwich, Connecticut.",
+      "valuation": 23900610560,
+      "ytd_growth": "37.47%",
+      "total_return": "66.85%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
-      {
-        "date": "2024-02",
-        "price": 120.32
-      },
       {
         "date": "2024-03",
         "price": 122.03
@@ -650,6 +646,10 @@
       {
         "date": "2026-01",
         "price": 148.11
+      },
+      {
+        "date": "2026-02",
+        "price": 203.61
       }
     ]
   },
@@ -657,108 +657,108 @@
     "metadata": {
       "name": "J.B. Hunt Transport Services, Inc.",
       "summary": "J.B. Hunt Transport Services, Inc. provides surface transportation, delivery, and logistic services in the United States. It operates through five segments: Intermodal (JBI), Dedicated Contract Services (DCS), Integrated Capacity Solutions (ICS), Final Mile Services (FMS), and Truckload (JBT). The JBI segment offers intermodal freight solutions. It operates 122,272 pieces of company-owned trailing equipment; owns and maintains its chassis fleet of 103,850 units; and manages a fleet of 6,153 company-owned tractors, 349 independent contractor trucks, and 8,117 company drivers. The DCS segment designs, develops, and executes supply chain solutions that support various transportation networks. As of December 31, 2024, it operated 12,048 company-owned trucks, 598 customer-owned trucks, and a contractor trucks. The company operates 27,149 owned pieces of trailing equipment and 4,897 customer-owned trailers. The ICS segment provides freight brokerage and transportation logistics solutions; flatbed, refrigerated, expedited, and less-than-truckload, as well as dry-van and intermodal solutions; online multimodal marketplace; and logistics management for customers to outsource their transportation functions. The FMS segment offers delivery services through 1,166 company-owned trucks, 206 customer-owned trucks, and 36 independent contractor trucks; and 1,123 owned pieces of trailing equipment and 104 customer-owned trailers. The JBT segment provides dry-van freight services by utilizing tractors and trailers operating over roads and highways through two company-owned tractors and 12,895 company-owned trailers. It transports or arranges for the transportation of freight, such as general merchandise, specialty consumer items, appliances, forest and paper products, food and beverages, building materials, soaps and cosmetics, automotive parts, agricultural products, electronics, and chemicals. The company was incorporated in 1961 and is headquartered in Lowell, Arkansas.",
-      "valuation": 19302662144,
-      "ytd_growth": "0.0%",
-      "total_return": "0.34%",
+      "valuation": 21701212160,
+      "ytd_growth": "12.65%",
+      "total_return": "16.81%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
       {
-        "date": "2024-02",
-        "price": 202.03
-      },
-      {
         "date": "2024-03",
-        "price": 195.51
+        "price": 195.12
       },
       {
         "date": "2024-04",
-        "price": 159.52
+        "price": 159.2
       },
       {
         "date": "2024-05",
-        "price": 157.73
+        "price": 157.42
       },
       {
         "date": "2024-06",
-        "price": 157.4
+        "price": 157.08
       },
       {
         "date": "2024-07",
-        "price": 170.33
+        "price": 169.99
       },
       {
         "date": "2024-08",
-        "price": 170.38
+        "price": 170.04
       },
       {
         "date": "2024-09",
-        "price": 169.96
+        "price": 169.62
       },
       {
         "date": "2024-10",
-        "price": 178.14
+        "price": 177.78
       },
       {
         "date": "2024-11",
-        "price": 186.51
+        "price": 186.14
       },
       {
         "date": "2024-12",
-        "price": 168.7
+        "price": 168.36
       },
       {
         "date": "2025-01",
-        "price": 169.25
+        "price": 168.91
       },
       {
         "date": "2025-02",
-        "price": 159.34
+        "price": 159.02
       },
       {
         "date": "2025-03",
-        "price": 146.63
+        "price": 146.34
       },
       {
         "date": "2025-04",
-        "price": 129.42
+        "price": 129.16
       },
       {
         "date": "2025-05",
-        "price": 137.61
+        "price": 137.34
       },
       {
         "date": "2025-06",
-        "price": 142.78
+        "price": 142.49
       },
       {
         "date": "2025-07",
-        "price": 143.22
+        "price": 142.94
       },
       {
         "date": "2025-08",
-        "price": 144.16
+        "price": 143.87
       },
       {
         "date": "2025-09",
-        "price": 133.82
+        "price": 133.55
       },
       {
         "date": "2025-10",
-        "price": 168.42
+        "price": 168.08
       },
       {
         "date": "2025-11",
-        "price": 173.51
+        "price": 173.16
       },
       {
         "date": "2025-12",
-        "price": 194.34
+        "price": 193.95
       },
       {
         "date": "2026-01",
-        "price": 202.72
+        "price": 202.32
+      },
+      {
+        "date": "2026-02",
+        "price": 227.91
       }
     ]
   }
