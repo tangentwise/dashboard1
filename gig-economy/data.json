@@ -2,10 +2,10 @@
   "UBER": {
     "metadata": {
       "name": "Uber Technologies, Inc.",
-      "summary": "Uber Technologies, Inc. develops and operates proprietary technology applications in the United States, Canada, Latin America, Europe, the Middle East, Africa, and the Asia Pacific. It operates through three segments: Mobility, Delivery, and Freight. The Mobility segment connects consumers with a range of transportation modalities, such as ridesharing, carsharing, micromobility, rentals, public transit, taxis, and other modalities; and offers riders in a variety of vehicle types, as well as financial partnerships products and advertising services. The Delivery segment allows consumers to search for and discover restaurants to grocery, alcohol, convenience, and other retails, as well as order a meal or other items, and either pick-up at the restaurant or have it delivered; and provides Uber direct, a white-label delivery-as-a-service for retailers and restaurants, as well as advertising services. The Freight segment manages transportation and logistics network, which connects shippers and carriers in digital marketplace, including carriers upfronts, pricing, and shipment booking; and offers on-demand platform to automate logistics end-to-end transactions for small-and medium-sized business to global enterprises. The company was formerly known as Ubercab, Inc. and changed its name to Uber Technologies, Inc. in February 2011. Uber Technologies, Inc. was founded in 2009 and is headquartered in San Francisco, California.",
-      "valuation": 155926740992,
-      "ytd_growth": "-6.6%",
-      "total_return": "-2.88%",
+      "summary": "Uber Technologies, Inc. develops and operates proprietary technology applications in the United States, Canada, Latin America, Europe, the Middle East, Africa, and the Asia Pacific. The company operates through three segments: Mobility, Delivery, and Freight. The Mobility segment connects consumers with a range of transportation modalities, such as ridesharing, carsharing, micromobility, rentals, public transit, taxis, and other modalities; and offers riders in a variety of vehicle types, as well as financial partnerships products and advertising services. The Delivery segment allows consumers to search for and discover restaurants to grocery, alcohol, convenience, and other retailers, as well as order a meal or other items, and either pick-up at the restaurant or have it delivered; and provides Uber direct, a white-label delivery-as-a-service for retailers and restaurants, as well as advertising services. The Freight segment manages transportation and logistics networks, which connects shippers and carriers in digital marketplace, including carriers upfronts, pricing, and shipment booking; and offers on-demand platform to automate logistics end-to-end transactions for small-and medium-sized businesses to global enterprises. The company was formerly known as Ubercab, Inc. and changed its name to Uber Technologies, Inc. in February 2011. Uber Technologies, Inc. was founded in 2009 and is headquartered in San Francisco, California.",
+      "valuation": 145958436864,
+      "ytd_growth": "-12.57%",
+      "total_return": "-9.09%",
       "type": "Stock",
       "holdings": "N/A"
     },
@@ -104,7 +104,7 @@
       },
       {
         "date": "2026-02",
-        "price": 74.77
+        "price": 69.99
       }
     ]
   },
@@ -112,9 +112,9 @@
     "metadata": {
       "name": "DoorDash, Inc.",
       "summary": "DoorDash, Inc., together with its subsidiaries, operates a commerce platform that connects merchants, consumers, and independent contractors in the United States and internationally. The company operates DoorDash Marketplace and Wolt Marketplace, which provide various services, such as customer acquisition, demand generation, order fulfillment, merchandising, payment processing, and customer support. It also offers membership programs, including DashPass and Wolt+; and DoorDash Drive On-Demand and Wolt Drive, which are white-label delivery fulfillment services, as well as provides services that help merchants establish online ordering, build branded mobile apps, enable tableside order and pay, and enhance customer support. The company was formerly known as Palo Alto Delivery Inc. and changed its name to DoorDash, Inc. in 2015. DoorDash, Inc. was founded in 2013 and is headquartered in San Francisco, California.",
-      "valuation": 78644305920,
-      "ytd_growth": "-10.82%",
-      "total_return": "32.49%",
+      "valuation": 69106302976,
+      "ytd_growth": "-21.64%",
+      "total_return": "16.42%",
       "type": "Stock",
       "holdings": "N/A"
     },
@@ -213,17 +213,17 @@
       },
       {
         "date": "2026-02",
-        "price": 182.47
+        "price": 160.34
       }
     ]
   },
   "LYFT": {
     "metadata": {
       "name": "Lyft, Inc.",
-      "summary": "Lyft, Inc. operates a peer-to-peer marketplace for on-demand ridesharing in the United States and Canada. The company operates multimodal transportation networks that offer access to various transportation options through the Lyft platform and mobile-based applications. Its platform provides a ridesharing marketplace that connects drivers with riders; Express Drive, a car rental program for drivers; and a network of shared bikes and scooters in various cities to address the needs of riders for short trips. The company was formerly known as Zimride, Inc. and changed its name to Lyft, Inc. in April 2013. Lyft, Inc. was incorporated in 2007 and is headquartered in San Francisco, California.",
-      "valuation": 6690027008,
-      "ytd_growth": "-2.43%",
-      "total_return": "-14.94%",
+      "summary": "Lyft, Inc. operates multimodal transportation networks that offer access to a various transportation option through platform and mobile based applications in the United States and internationally. The company facilitates peer-to-peer ridesharing by connecting drivers who have a vehicle with riders who need a ride. It also operates Lyft Platform that provides a marketplace where drivers can be matched with riders via the Lyft mobile application. The company's platform provides a ridesharing marketplace that connects drivers with riders; Express Drive, a car rental program for drivers; and a network of shared bikes and scooters in various cities to address the needs of riders for short trips. In addition, it also offers licensing and data access agreements; sells bikes and bike station software and hardware; and provides advertising services. The company was formerly known as Zimride, Inc. and changed its name to Lyft, Inc. in April 2013. Lyft, Inc. was incorporated in 2007 and is headquartered in San Francisco, California.",
+      "valuation": 5299420160,
+      "ytd_growth": "-21.34%",
+      "total_return": "-31.42%",
       "type": "Stock",
       "holdings": "N/A"
     },
@@ -322,7 +322,7 @@
       },
       {
         "date": "2026-02",
-        "price": 16.46
+        "price": 13.27
       }
     ]
   },
@@ -330,9 +330,9 @@
     "metadata": {
       "name": "Toast, Inc.",
       "summary": "Toast, Inc. operates a cloud-based digital technology platform for the restaurant industry in the United States, Ireland, India, and internationally. The company offers software products for restaurant operations and point of sale, such as Toast POS, team and vendor management, multi-location management, kitchen display system, mobile order and pay, and catering and events. It offers payroll and team management; supply chain and accounting products; xtraCHEF by toast, a set of back-office tools for restaurants, including accounts payable automation, inventory management, ingredient price tracking, and recipe costing; and financial technology solutions. The company was formerly known as Opti Systems, Inc. and changed its name to Toast, Inc. in May 2012. Toast, Inc. was incorporated in 2011 and is headquartered in Boston, Massachusetts.",
-      "valuation": 16305240064,
-      "ytd_growth": "-10.86%",
-      "total_return": "11.28%",
+      "valuation": 16097370112,
+      "ytd_growth": "-12.15%",
+      "total_return": "9.67%",
       "type": "Stock",
       "holdings": "N/A"
     },
@@ -431,7 +431,7 @@
       },
       {
         "date": "2026-02",
-        "price": 27.73
+        "price": 27.33
       }
     ]
   }
