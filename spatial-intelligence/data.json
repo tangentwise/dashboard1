@@ -3,17 +3,13 @@
     "metadata": {
       "name": "Trimble Inc.",
       "summary": "Trimble Inc. offers technology solutions and platform that enable office professionals and field workers to connect workflows and industry lifecycles in North America, Europe, the Asia Pacific, and internationally. The company provides architecture and interior design; building information modeling, engineering, and virtual design and construction; and construction and owner software products. It also offers field and office software for estimating and job cost management, and project design and visualization; software for 3D design and data sharing; systems to guide and control construction equipment, such as excavators, bulldozers, wheel loaders, motor graders, and paving equipment; systems to monitor, track, and manage assets, equipment, and workers; and software to facilitate the management of the construction process and for sharing and communication of data in real time. In addition, it provides positioning services comprising VRSNow; CenterPoint RTX; FieldPoint RTX; Rangepoint RTX; ViewPoint RTX; and Trimble xFill services. Further, it offers transportation and logistics solutions for shippers, carriers, retailers, and intermediaries, such as carrier transportation management software (TMS) and maintenance solutions to manage core transportation operations and maintenance workflows; transporeon solutions to provide a cloud-based ecosystem that manages the transportation lifecycle from freight sourcing and procurement through transport execution, dock and yard management, and auditing; and MAPS, a mapping and routing solutions that provide the industry standard for truck-specific routing, mileage, and navigation. It sells its technology solutions directly to end users and through software integrations. The company was formerly known as Trimble Navigation Limited and changed its name to Trimble Inc. in October 2016. Trimble Inc. was founded in 1978 and is headquartered in Westminster, Colorado.",
-      "valuation": 15912993792,
-      "ytd_growth": "-1.08%",
-      "total_return": "3.9%",
+      "valuation": 16673501184,
+      "ytd_growth": "3.67%",
+      "total_return": "16.66%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
-      {
-        "date": "2024-03",
-        "price": 64.36
-      },
       {
         "date": "2024-04",
         "price": 60.07
@@ -105,6 +101,10 @@
       {
         "date": "2026-02",
         "price": 66.87
+      },
+      {
+        "date": "2026-03",
+        "price": 70.08
       }
     ]
   },
@@ -112,17 +112,13 @@
     "metadata": {
       "name": "Garmin Ltd.",
       "summary": "Garmin Ltd. designs, develops, manufactures, markets, and distributes a diverse range of GPS-enabled products and navigation, communications, sensor-based, and information products and services worldwide. It offers running; cycling products; smartwatch devices; scales and monitors; and sports timing and performance analysis; Garmin Connect and Garmin Connect Mobile, which are web and mobile platforms where users can track and analyze their fitness, activities and workouts, and wellness data; and Connect IQ, which enables third parties to create applications that run on Garmin devices. It also provides adventure watches; outdoor handhelds and satellite communicators; golf devices; consumer automotive; dog devices; InReach and Gramin response; and dive devices. In addition, it designs, manufactures, and markets various aircraft avionics solutions, including integrated flight decks, electronic flight displays and instrumentation, navigation and communication products, automatic flight control systems and safety-enhancing technologies, audio control systems, engine indication systems, traffic awareness and avoidance solutions, ADS-B and transponders, weather information and avoidance solutions, datalink and connectivity solutions, and portable GPS navigators and wearables, as well as service products to the aviation market. Further, it offers chartplotters and multi-function displays, cartography, fishfinders, sonar, autopilot systems, radars, compliant instrument displays and sensors, VHF communication radios, handhelds and wearable devices, sailing, audio, digital switching, trolling motors, and lighting; and domain controllers and infotainment units, as well as software, map database, camera, wearable, and automotive solutions. The company sells its products through independent retailers, dealers, distributors, installation and repair shops, OEM, and online webshop. Garmin Ltd. was founded in 1989 and is based in Schaffhausen, Switzerland.",
-      "valuation": 48664928256,
-      "ytd_growth": "25.39%",
-      "total_return": "75.59%",
+      "valuation": 46865231872,
+      "ytd_growth": "20.75%",
+      "total_return": "73.38%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
-      {
-        "date": "2024-03",
-        "price": 143.99
-      },
       {
         "date": "2024-04",
         "price": 140.43
@@ -214,6 +210,10 @@
       {
         "date": "2026-02",
         "price": 252.83
+      },
+      {
+        "date": "2026-03",
+        "price": 243.48
       }
     ]
   },
@@ -221,17 +221,13 @@
     "metadata": {
       "name": "Cognex Corporation",
       "summary": "Cognex Corporation provides machine vision products that capture and analyze visual information to automate manufacturing and distribution tasks in the United States, Europe, Greater China, and internationally. Its machine vision products are used to automate the manufacture and distribution of discrete items, such as mobile phones, automotive components, and e-commerce packages, by locating, identifying, inspecting, and measuring them. The company offers VisionPro software, a suite of patented vision tools for traditional rule-based tools and deep learning-enabled tools for advanced programming; vision systems that combine smart cameras and software to perform a wide range of tasks, including part location, identification, measurement, assembly verification, and robotic guidance; OneVision, a cloud-based platform designed to transform how manufacturers build, train, and scale AI-powered vision applications; In-Sight product line of vision systems and sensors; QuickBuild, which allows customers to build vision applications with a graphical and flowchart-based programming interface; DataMan, an image-based barcode reader for fixed-mount and handheld models, as well as barcode verifiers; and vision accessories, such as industrial cameras, lenses, lighting, vision controllers, frame grabbers, and I/O cards. It sells its products to the automotive, logistics, packaging, consumer electronics, medical-related, semiconductor, and consumer products industries. The company was incorporated in 1981 and is headquartered in Natick, Massachusetts.",
-      "valuation": 9014510592,
-      "ytd_growth": "40.64%",
-      "total_return": "30.3%",
+      "valuation": 8194256896,
+      "ytd_growth": "27.84%",
+      "total_return": "20.96%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
-      {
-        "date": "2024-03",
-        "price": 41.75
-      },
       {
         "date": "2024-04",
         "price": 40.88
@@ -322,7 +318,11 @@
       },
       {
         "date": "2026-02",
-        "price": 54.4
+        "price": 54.32
+      },
+      {
+        "date": "2026-03",
+        "price": 49.45
       }
     ]
   },
@@ -330,17 +330,13 @@
     "metadata": {
       "name": "Materialise NV",
       "summary": "Materialise NV provides additive manufacturing and medical software tools, and 3D printing services in the Americas, Europe, Africa, and the Asia-Pacific. The company operates through three segments: Materialise Software, Materialise Medical, and Materialise Manufacturing. The Materialise Software segment offers software through programs and platforms that enable and enhance the functionality of 3D printers, and printing operations. Its software interfaces between various types of 3D printers; and various software applications and capturing technologies, including computer-aided design/computer-aided manufacturing packages and 3D scanners; a MES, software providers. This segment serves 3D printing machine manufacturers; production companies and contract manufacturers in automotive, aerospace, consumer goods, and hearing aid industries; and 3D printing service bureaus through its sales force, website, and third-party distributors. The Materialise Medical segment provides medical software that allows medical-image based analysis, planning, and engineering, as well as patient-specific design and printing of surgical devices and implants. It serves medical device companies, hospitals, universities, research institutes, and industrial companies through its direct sales force, website, and picture archiving and communication system. The Materialise Manufacturing segment provides 3D printing services, design and engineering services, and rapid prototyping and additive manufacturing of production parts to customers serving the automotive, consumer goods industrial goods, semiconductor, art and architecture and aerospace markets. The company has collaboration agreements with Zimmer Biomet Holdings, Inc.; Encore Medical, L.P.; DePuy Synthes Companies of Johnson & Johnson; Limacorporate Spa; Mathys AG; Smith & Nephew Inc.; Corin Ltd; Medtronic Inc.; and Abbott Laboratories Inc. Materialise NV was incorporated in 1990 and is headquartered in Leuven, Belgium.",
-      "valuation": 324032576,
-      "ytd_growth": "-5.99%",
-      "total_return": "-1.89%",
+      "valuation": 327160320,
+      "ytd_growth": "-5.08%",
+      "total_return": "0.19%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
-      {
-        "date": "2024-03",
-        "price": 5.28
-      },
       {
         "date": "2024-04",
         "price": 5.22
@@ -432,6 +428,10 @@
       {
         "date": "2026-02",
         "price": 5.18
+      },
+      {
+        "date": "2026-03",
+        "price": 5.23
       }
     ]
   },
@@ -439,17 +439,13 @@
     "metadata": {
       "name": "Arbe Robotics Ltd.",
       "summary": "Arbe Robotics Ltd., a semiconductor company, provides 4D imaging radar solutions to suppliers of parts or systems, autonomous ground vehicles, and commercial and industrial vehicles in China, Sweden, Germany, the United States, Israel, and internationally. It offers a radar chipset, including transmitter (Tx), receiver (Rx), and processor chips; the Phoenix perception radar for free space mapping, object tracking, and simultaneous localization and mapping; and Lynx, a 4D imaging radar for corner and back installation. The company also develops radar chipsets for integration into advanced driver assistance systems (ADAS) and autonomous vehicles (AV) sensor suites, as well as an array of safety applications with sensing and paradigm-changing perception. Further, it develops multi-channel radio frequency integrated circuit. The company was founded in 2015 and is headquartered in Tel Aviv, Israel.",
-      "valuation": 100660304,
-      "ytd_growth": "-33.33%",
-      "total_return": "-60.77%",
+      "valuation": 95482224,
+      "ytd_growth": "-36.59%",
+      "total_return": "-56.42%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
-      {
-        "date": "2024-03",
-        "price": 2.09
-      },
       {
         "date": "2024-04",
         "price": 1.79
@@ -541,6 +537,10 @@
       {
         "date": "2026-02",
         "price": 0.82
+      },
+      {
+        "date": "2026-03",
+        "price": 0.78
       }
     ]
   }
