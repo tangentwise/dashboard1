@@ -4,8 +4,8 @@
       "name": "Global X Lithium & Battery Tech ETF",
       "summary": "The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts (\"ADRs\") and Global Depositary Receipts (\"GDRs\") based on the securities in the underlying index. The underlying index is designed to measure broad-based equity market performance of global companies involved in the lithium industry. The fund is non-diversified.",
       "valuation": 1791500672,
-      "ytd_growth": "-4.25%",
-      "total_return": "55.26%",
+      "ytd_growth": "2.8%",
+      "total_return": "66.69%",
       "type": "ETF",
       "holdings": [
         "RIO",
@@ -110,7 +110,7 @@
       },
       {
         "date": "2026-03",
-        "price": 66.98
+        "price": 71.91
       }
     ]
   },
@@ -119,8 +119,8 @@
       "name": "Sprott Lithium Miners ETF",
       "summary": "The fund will, under normal circumstances, invest at least 80% of its total assets in securities of the index. The index is designed to track the performance of companies that derive at least 50% of their revenue and/or assets from mining, exploration, development, or production of lithium. The index generally consists of from 40 to 50 constituents. The fund is non-diversified.",
       "valuation": 56658984,
-      "ytd_growth": "-14.9%",
-      "total_return": "27.55%",
+      "ytd_growth": "-0.54%",
+      "total_return": "49.07%",
       "type": "ETF",
       "holdings": [
         "01772",
@@ -225,7 +225,7 @@
       },
       {
         "date": "2026-03",
-        "price": 11.02
+        "price": 12.88
       }
     ]
   },
@@ -234,8 +234,8 @@
       "name": "Proshares S&P Global Core Battery Metals ETF",
       "summary": "The fund invests in financial instruments that ProShare Advisors believes, in combination, should track the performance of the index. The index is designed to measure the performance of companies in the S&P Global Broad Market Index engaged in the mining of cobalt, lithium, and nickel\u2014base metals used to produce batteries. Under normal circumstances, it will invest at least 80% of its total assets in components of the index or in instruments with similar economic characteristics. It is non-diversified.",
       "valuation": 16257233,
-      "ytd_growth": "-13.49%",
-      "total_return": "69.12%",
+      "ytd_growth": "-5.08%",
+      "total_return": "85.56%",
       "type": "ETF",
       "holdings": [
         "5541.T",
@@ -340,7 +340,7 @@
       },
       {
         "date": "2026-03",
-        "price": 49.89
+        "price": 54.74
       }
     ]
   },
@@ -349,8 +349,8 @@
       "name": "iShares S&P GSCI Commodity-Indexed Trust",
       "summary": "The Trust holds long positions in index futures that have settlement values at expiration based on the level of the S&P GSCI-ER at that time, and earning interest on its non-cash Collateral Assets used to satisfy applicable margin requirements on those index futures positions. The index reflects the return of the S&P GSCI-ER, together with the return on specified U.S. Treasury securities that are deemed to have been held to collateralize a hypothetical long position in the futures contracts comprising the S&P GSCI\u2122.",
       "valuation": 806140864,
-      "ytd_growth": "24.49%",
-      "total_return": "42.43%",
+      "ytd_growth": "25.78%",
+      "total_return": "43.92%",
       "type": "ETF",
       "holdings": []
     },
@@ -449,7 +449,7 @@
       },
       {
         "date": "2026-03",
-        "price": 31.72
+        "price": 32.05
       }
     ]
   }
