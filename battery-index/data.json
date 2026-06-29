@@ -4,8 +4,8 @@
       "name": "Global X Lithium & Battery Tech ETF",
       "summary": "The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts (\"ADRs\") and Global Depositary Receipts (\"GDRs\") based on the securities in the underlying index. The underlying index is designed to measure broad-based equity market performance of global companies involved in the lithium industry. The fund is non-diversified.",
       "valuation": 2238539008,
-      "ytd_growth": "17.44%",
-      "total_return": "111.67%",
+      "ytd_growth": "8.55%",
+      "total_return": "95.65%",
       "type": "ETF",
       "holdings": [
         "RIO",
@@ -110,7 +110,7 @@
       },
       {
         "date": "2026-06",
-        "price": 82.15
+        "price": 75.93
       }
     ]
   },
@@ -119,8 +119,8 @@
       "name": "Sprott Lithium Miners ETF",
       "summary": "The fund will, under normal circumstances, invest at least 80% of its total assets in securities of the index. The index is designed to track the performance of companies that derive at least 50% of their revenue and/or assets from mining, exploration, development, or production of lithium. The index generally consists of from 40 to 50 constituents. The fund is non-diversified.",
       "valuation": 62987080,
-      "ytd_growth": "9.58%",
-      "total_return": "114.03%",
+      "ytd_growth": "-6.25%",
+      "total_return": "83.11%",
       "type": "ETF",
       "holdings": [
         "LTR.AX",
@@ -225,7 +225,7 @@
       },
       {
         "date": "2026-06",
-        "price": 14.19
+        "price": 12.14
       }
     ]
   },
@@ -234,8 +234,8 @@
       "name": "Proshares S&P Global Core Battery Metals ETF",
       "summary": "The fund invests in financial instruments that ProShare Advisors believes, in combination, should track the performance of the index. The index is designed to measure the performance of companies in the S&P Global Broad Market Index engaged in the mining of cobalt, lithium, and nickel\u2014base metals used to produce batteries. Under normal circumstances, it will invest at least 80% of its total assets in components of the index or in instruments with similar economic characteristics. It is non-diversified.",
       "valuation": 16651065,
-      "ytd_growth": "-2.39%",
-      "total_return": "119.63%",
+      "ytd_growth": "-12.57%",
+      "total_return": "96.75%",
       "type": "ETF",
       "holdings": [
         "LTR.AX",
@@ -248,99 +248,99 @@
     "prices": [
       {
         "date": "2024-07",
-        "price": 25.63
+        "price": 25.53
       },
       {
         "date": "2024-08",
-        "price": 25.11
+        "price": 25.01
       },
       {
         "date": "2024-09",
-        "price": 28.93
+        "price": 28.82
       },
       {
         "date": "2024-10",
-        "price": 28.05
+        "price": 27.94
       },
       {
         "date": "2024-11",
-        "price": 27.25
+        "price": 27.14
       },
       {
         "date": "2024-12",
-        "price": 24.73
+        "price": 24.63
       },
       {
         "date": "2025-01",
-        "price": 25.19
+        "price": 25.09
       },
       {
         "date": "2025-02",
-        "price": 24.7
+        "price": 24.6
       },
       {
         "date": "2025-03",
-        "price": 25.15
+        "price": 25.05
       },
       {
         "date": "2025-04",
-        "price": 24.74
+        "price": 24.65
       },
       {
         "date": "2025-05",
-        "price": 26.33
+        "price": 26.23
       },
       {
         "date": "2025-06",
-        "price": 28.38
+        "price": 28.27
       },
       {
         "date": "2025-07",
-        "price": 30.27
+        "price": 30.15
       },
       {
         "date": "2025-08",
-        "price": 35.06
+        "price": 34.92
       },
       {
         "date": "2025-09",
-        "price": 38.45
+        "price": 38.3
       },
       {
         "date": "2025-10",
-        "price": 41.98
+        "price": 41.82
       },
       {
         "date": "2025-11",
-        "price": 47.23
+        "price": 47.05
       },
       {
         "date": "2025-12",
-        "price": 51.33
+        "price": 51.13
       },
       {
         "date": "2026-01",
-        "price": 57.67
+        "price": 57.45
       },
       {
         "date": "2026-02",
-        "price": 64.7
+        "price": 64.45
       },
       {
         "date": "2026-03",
-        "price": 56.57
+        "price": 56.35
       },
       {
         "date": "2026-04",
-        "price": 65.66
+        "price": 65.41
       },
       {
         "date": "2026-05",
-        "price": 60.28
+        "price": 60.05
       },
       {
         "date": "2026-06",
-        "price": 56.29
+        "price": 50.23
       }
     ]
   },
@@ -349,8 +349,8 @@
       "name": "iShares S&P GSCI Commodity-Indexed Trust",
       "summary": "The Trust holds long positions in index futures that have settlement values at expiration based on the level of the S&P GSCI-ER at that time, and earning interest on its non-cash Collateral Assets used to satisfy applicable margin requirements on those index futures positions. The index reflects the return of the S&P GSCI-ER, together with the return on specified U.S. Treasury securities that are deemed to have been held to collateralize a hypothetical long position in the futures contracts comprising the S&P GSCI\u2122.",
       "valuation": 1039705408,
-      "ytd_growth": "15.89%",
-      "total_return": "37.28%",
+      "ytd_growth": "11.42%",
+      "total_return": "31.99%",
       "type": "ETF",
       "holdings": []
     },
@@ -449,7 +449,7 @@
       },
       {
         "date": "2026-06",
-        "price": 29.53
+        "price": 28.39
       }
     ]
   }
