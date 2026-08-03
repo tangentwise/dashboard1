@@ -1,11 +1,11 @@
 {
   "AIT": {
     "metadata": {
-      "name": "Applied Industrial Technologies, Inc.",
+      "name": "AIT",
       "summary": "Applied Industrial Technologies, Inc. distributes industrial motion, power, control, and automation technology solutions in the United States, Canada, Mexico, Australia, New Zealand, Singapore, and Costa Rica. It operates in two segments, Service Center and Engineered Solutions. The Service Center segment distributes industrial bearings, power transmission, fluid power components and systems, specialty flow control, and advanced factory automation solutions, as well as general maintenance products; and motors, belting, drives, couplings, pumps, linear motion, hydraulic and pneumatic components, filtration supplies, hoses, and other related supplies. It also installs, modifies, and repairs conveyor belts and rubber linings, as well as hose assemblies. The Engineered Solutions segment is involved in distributing, engineering, designing, integrating, and repairing hydraulic and pneumatic fluid power technologies, engineered flow control products and services, and automation technologies; and provision of fluid power and industrial flow control products. Its fluid power products and solutions are used in off-highway mobile equipment, stationary industrial equipment and machines, marine and offshore equipment, factory automation, food processing equipment, packaging operations, and downstream energy process systems. This segment also offers pumps, valves, fittings, hoses, process instrumentation, actuators, and filtration supplies; and advanced automation technologies for the design, engineering, assembly, integration, and distribution of machine vision, collaborative robots, mobile robots, radio-frequency identification, industrial networking, motion control, and machine learning technologies for OEMs, machine builders, integrators, and other industrial and technology sectors. The company was formerly known as Bearings, Inc. and changed its to name to Applied Industrial Technologies, Inc. in 1997. The company was founded in 1923 and is headquartered in Cleveland, Ohio.",
-      "valuation": 12827177984,
-      "ytd_growth": "33.74%",
-      "total_return": "71.26%",
+      "valuation": 0,
+      "ytd_growth": "33.02%",
+      "total_return": "70.35%",
       "type": "Stock",
       "holdings": "N/A"
     },
@@ -104,17 +104,17 @@
       },
       {
         "date": "2026-07",
-        "price": 347.06
+        "price": 345.21
       }
     ]
   },
   "GWW": {
     "metadata": {
-      "name": "W.W. Grainger, Inc.",
+      "name": "GWW",
       "summary": "W.W. Grainger, Inc., together with its subsidiaries, distributes maintenance, repair, and operating products and services primarily in North America, Japan, and the United Kingdom. The company operates through two segments, High-Touch Solutions North America and Endless Assortment. It provides safety, security, material handling and storage equipment, pumps and plumbing equipment, cleaning and maintenance, and metalworking and hand tools. The company also offers technical support and inventory management services. It serves smaller businesses to large corporations, government entities, and other institutions, as well as commercial, healthcare, and manufacturing industries through sales and service representatives, and electronic and ecommerce channels. W.W. Grainger, Inc. was founded in 1927 and is headquartered in Lake Forest, Illinois.",
-      "valuation": 65276858368,
-      "ytd_growth": "28.53%",
-      "total_return": "42.43%",
+      "valuation": 0,
+      "ytd_growth": "28.49%",
+      "total_return": "42.4%",
       "type": "Stock",
       "holdings": "N/A"
     },
@@ -153,7 +153,7 @@
       },
       {
         "date": "2025-04",
-        "price": 1013.27
+        "price": 1013.26
       },
       {
         "date": "2025-05",
@@ -213,7 +213,7 @@
       },
       {
         "date": "2026-07",
-        "price": 1382.6
+        "price": 1382.22
       }
     ]
   },
@@ -221,118 +221,118 @@
     "metadata": {
       "name": "Fastenal Company",
       "summary": "Fastenal Company, together with its subsidiaries, engages in the wholesale distribution of industrial and construction supplies in the United States, Canada, Mexico, and internationally. It offers fasteners, and related industrial and construction supplies under the Fastenal name. The company's fastener products include threaded fasteners, bolts, nuts, screws, studs, and related washers that are used in manufactured products and construction projects, as well as in the maintenance and repair of machines. It offers miscellaneous supplies and hardware, including pins, machinery keys, concrete anchors, metal framing systems, wire ropes, strut products, rivets, and related accessories. The company serves the manufacturing market comprising original equipment manufacturers; maintenance, repair, and operations customers; non-residential construction market; farmers, truckers, railroads, mining companies, schools, and retail trades; and oil exploration, production, and refinement companies, as well as federal, state, and local governmental entities. Fastenal Company was founded in 1967 and is headquartered in Winona, Minnesota.",
-      "valuation": 53955338240,
-      "ytd_growth": "9.02%",
-      "total_return": "42.92%",
+      "valuation": 54747111424,
+      "ytd_growth": "11.24%",
+      "total_return": "45.81%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
       {
         "date": "2024-08",
-        "price": 32.9
+        "price": 32.72
       },
       {
         "date": "2024-09",
-        "price": 34.41
+        "price": 34.22
       },
       {
         "date": "2024-10",
-        "price": 37.86
+        "price": 37.66
       },
       {
         "date": "2024-11",
-        "price": 40.47
+        "price": 40.25
       },
       {
         "date": "2024-12",
-        "price": 34.83
+        "price": 34.64
       },
       {
         "date": "2025-01",
-        "price": 35.68
+        "price": 35.48
       },
       {
         "date": "2025-02",
-        "price": 36.89
+        "price": 36.69
       },
       {
         "date": "2025-03",
-        "price": 37.78
+        "price": 37.57
       },
       {
         "date": "2025-04",
-        "price": 39.65
+        "price": 39.44
       },
       {
         "date": "2025-05",
-        "price": 40.49
+        "price": 40.27
       },
       {
         "date": "2025-06",
-        "price": 41.14
+        "price": 40.91
       },
       {
         "date": "2025-07",
-        "price": 45.4
+        "price": 45.15
       },
       {
         "date": "2025-08",
-        "price": 48.87
+        "price": 48.6
       },
       {
         "date": "2025-09",
-        "price": 48.26
+        "price": 48.0
       },
       {
         "date": "2025-10",
-        "price": 40.71
+        "price": 40.48
       },
       {
         "date": "2025-11",
-        "price": 39.96
+        "price": 39.75
       },
       {
         "date": "2025-12",
-        "price": 39.7
+        "price": 39.48
       },
       {
         "date": "2026-01",
-        "price": 43.13
+        "price": 42.89
       },
       {
         "date": "2026-02",
-        "price": 45.8
+        "price": 45.55
       },
       {
         "date": "2026-03",
-        "price": 46.15
+        "price": 45.9
       },
       {
         "date": "2026-04",
-        "price": 44.93
+        "price": 44.68
       },
       {
         "date": "2026-05",
-        "price": 44.2
+        "price": 43.96
       },
       {
         "date": "2026-06",
-        "price": 48.03
+        "price": 47.77
       },
       {
         "date": "2026-07",
-        "price": 47.02
+        "price": 47.71
       }
     ]
   },
   "MSM": {
     "metadata": {
-      "name": "MSC Industrial Direct Co., Inc.",
+      "name": "MSM",
       "summary": "MSC Industrial Direct Co., Inc., together with its subsidiaries, engages in the distribution of metalworking and maintenance, repair, and operations (MRO) products and services in the United States, Canada, Mexico, the United Kingdom, and internationally. The company's metalworking and MRO products include cutting tools, abrasives, machining fluids, measuring instruments, metalworking products, machinery and accessories, tooling components, fasteners, flat stock products, raw materials, machinery hand and power tools, safety and janitorial supplies, plumbing supplies, materials handling products, power transmission components, and electrical supplies. It also offers stock-keeping units through its catalogs and brochures; e-commerce channels, including its website; inventory management solutions; and customer care centers, customer fulfillment centers, regional inventory centers and warehouses. In addition, the company serves individual machine shops, manufacturing companies, and government agencies. MSC Industrial Direct Co., Inc. was founded in 1941 and is headquartered in Melville, New York.",
-      "valuation": 7016528384,
-      "ytd_growth": "51.5%",
-      "total_return": "65.27%",
+      "valuation": 0,
+      "ytd_growth": "48.8%",
+      "total_return": "62.33%",
       "type": "Stock",
       "holdings": "N/A"
     },
@@ -431,7 +431,7 @@
       },
       {
         "date": "2026-07",
-        "price": 125.64
+        "price": 123.4
       }
     ]
   },
@@ -439,9 +439,9 @@
     "metadata": {
       "name": "WESCO International, Inc.",
       "summary": "WESCO International, Inc. provides business-to-business distribution, logistics services, and supply chain solutions in the United States, Canada, and internationally. It operates through three segments: Electrical & Electronic Solutions (EES), Communications & Security Solutions (CSS), and Utility & Broadband Solutions (UBS). The EES segment offers electrical equipment and supplies, automation and connected devices, security, lighting, wire and cable, and safety, as well as maintenance, repair, and operating (MRO) products. This segment also offers project execution solutions, direct and indirect manufacturing supply chain optimization programs, lighting and renewables advisory services, and digital and automation solutions. The CSS segment provides data center, network infrastructure, and security solutions. This segment sells products directly to security and network, professional audio/visual, and systems integrators, as well as data communications contractors. It also provides professional A/V, safety, facilities, and energy management solutions. The UBS segment offers products and services to investor-owned utilities, electric power cooperatives and municipalities, service and wireless providers, broadband operators, and contractors. This segment's products include wires and cables, transformers, transmission and distribution hardware, switches, protective devices, connectors, lighting and connectivity products, conduits, fiber and power cables, pole line hardware, racks, cabinets, safety and MRO products, and wireless devices. It also offers fiber project management, high and medium voltage project design and support, pre-wired meters and capacitor banks, meter testing and advanced metering infrastructure installation, personal protective equipment, dielectric testing, and tool repair, as well as emergency response, storage yard, materials, and logistics management solutions. The company was founded in 1922 and is headquartered in Pittsburgh, Pennsylvania.",
-      "valuation": 16193402880,
-      "ytd_growth": "15.26%",
-      "total_return": "104.55%",
+      "valuation": 16739248128,
+      "ytd_growth": "19.08%",
+      "total_return": "111.33%",
       "type": "Stock",
       "holdings": "N/A"
     },
@@ -540,7 +540,7 @@
       },
       {
         "date": "2026-07",
-        "price": 332.48
+        "price": 343.49
       }
     ]
   }
