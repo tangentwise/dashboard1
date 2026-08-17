@@ -3,217 +3,217 @@
     "metadata": {
       "name": "Emerson Electric Co.",
       "summary": "Emerson Electric Co., a technology and software company, provides various solutions in the Americas, Asia, the Middle East, Africa, and Europe. It operates through Final Control, Measurement & Analytical, Discrete Automation, Safety & Productivity, Control Systems & Software, and Test & Measurement segments. The Final Control segment provides control valves, isolation valves, shutoff valves, pressure relief valves, pressure safety valves, actuators, and regulators for process and hybrid industries under Anderson Greenwood, Bettis, Crosby, Fisher, Keystone, KTM, and Vanessa brands. The Measurement & Analytical segment supplies intelligent instrumentation measuring the physical properties of liquids or gases, such as pressure, temperature, level, flow, acoustics, corrosion, pH, conductivity, water quality, toxic gases, and flame under the Flexim, Micro Motion, and Rosemount brands. The Discrete Automation segment includes solenoid valves, pneumatic valves, valve position indicators, pneumatic cylinders and actuators, air preparation equipment, pressure and temperature switches, electric linear motion solutions, programmable automation control systems and software, electrical distribution equipment, and materials joining solutions used primarily in discrete industries under the Afag, Appleton, ASCO, Aventics, Branson, Movicon, PACSystems, SolaHD, TESCOM, and TopWorx brands. The Safety & Productivity segment delivers tools for professionals and homeowners that support infrastructure, promote safety, and enhance productivity under the Greenlee, Klauke, ProTeam, and RIDGID brands. The Control Systems & Software segment provides control systems and software that control plant processes by collecting and analyzing information from measurement devices in the plant under the DeltaV and Ovation brands. The Test & Measurement offers software-connected automated test and measurement systems. The company was incorporated in 1890 and is headquartered in Saint Louis, Missouri.",
-      "valuation": 88641421312,
-      "ytd_growth": "8.54%",
-      "total_return": "48.94%",
+      "valuation": 91016224768,
+      "ytd_growth": "12.28%",
+      "total_return": "54.08%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
       {
         "date": "2024-09",
-        "price": 106.26
+        "price": 105.9
       },
       {
         "date": "2024-10",
-        "price": 105.19
+        "price": 104.83
       },
       {
         "date": "2024-11",
-        "price": 129.36
+        "price": 128.92
       },
       {
         "date": "2024-12",
-        "price": 120.9
+        "price": 120.49
       },
       {
         "date": "2025-01",
-        "price": 126.77
+        "price": 126.34
       },
       {
         "date": "2025-02",
-        "price": 119.14
+        "price": 118.74
       },
       {
         "date": "2025-03",
-        "price": 107.41
+        "price": 107.05
       },
       {
         "date": "2025-04",
-        "price": 102.97
+        "price": 102.63
       },
       {
         "date": "2025-05",
-        "price": 117.47
+        "price": 117.07
       },
       {
         "date": "2025-06",
-        "price": 131.2
+        "price": 130.75
       },
       {
         "date": "2025-07",
-        "price": 143.18
+        "price": 142.7
       },
       {
         "date": "2025-08",
-        "price": 130.4
+        "price": 129.96
       },
       {
         "date": "2025-09",
-        "price": 129.59
+        "price": 129.15
       },
       {
         "date": "2025-10",
-        "price": 137.88
+        "price": 137.41
       },
       {
         "date": "2025-11",
-        "price": 132.33
+        "price": 131.89
       },
       {
         "date": "2025-12",
-        "price": 131.68
+        "price": 131.23
       },
       {
         "date": "2026-01",
-        "price": 145.81
+        "price": 145.32
       },
       {
         "date": "2026-02",
-        "price": 150.14
+        "price": 149.64
       },
       {
         "date": "2026-03",
-        "price": 130.49
+        "price": 130.05
       },
       {
         "date": "2026-04",
-        "price": 139.87
+        "price": 139.4
       },
       {
         "date": "2026-05",
-        "price": 143.82
+        "price": 143.33
       },
       {
         "date": "2026-06",
-        "price": 143.15
+        "price": 142.67
       },
       {
         "date": "2026-07",
-        "price": 149.82
+        "price": 149.31
       },
       {
         "date": "2026-08",
-        "price": 158.26
+        "price": 163.17
       }
     ]
   },
   "HON": {
     "metadata": {
-      "name": "Honeywell International Inc.",
+      "name": "HON",
       "summary": "Honeywell International Inc. engages in the industrial automation, building automation, and energy and sustainability solutions businesses in the United States, Europe, and internationally. The Industrial Automation segment provides automation control and instrumentation products and services; smart energy products; sensing technologies, including custom-engineered sensors and related services; gas detection technologies and personal protective equipment; and system design automation equipment, as well as software and analytics for manufacturing, distribution, and fulfillment operations. The Building Automation segment provides software applications for building control and optimization; sensors, switches, control systems, and instruments for energy management; access control; video surveillance; fire products; and installation, maintenance, and system upgrade services. The Energy and Sustainability Solutions segment, through its UOP business, delivers licensed process technology, equipment, engineering, catalysts, adsorbents, and services for refining, petrochemicals, low-carbon energy, gas and LNG, and industrial solutions, as well as connectivity, data integration, and software solutions. The company was formerly known as AlliedSignal, Inc. Honeywell International Inc. was founded in 1885 and is headquartered in Charlotte, North Carolina.",
-      "valuation": 78033797120,
-      "ytd_growth": "4.26%",
-      "total_return": "25.03%",
+      "valuation": 74151280640,
+      "ytd_growth": "-0.62%",
+      "total_return": "19.17%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
       {
         "date": "2024-09",
-        "price": 196.92
+        "price": 196.33
       },
       {
         "date": "2024-10",
-        "price": 195.94
+        "price": 195.35
       },
       {
         "date": "2024-11",
-        "price": 222.99
+        "price": 222.32
       },
       {
         "date": "2024-12",
-        "price": 216.25
+        "price": 215.6
       },
       {
         "date": "2025-01",
-        "price": 214.17
+        "price": 213.53
       },
       {
         "date": "2025-02",
-        "price": 204.89
+        "price": 204.28
       },
       {
         "date": "2025-03",
-        "price": 203.8
+        "price": 203.19
       },
       {
         "date": "2025-04",
-        "price": 202.59
+        "price": 201.99
       },
       {
         "date": "2025-05",
-        "price": 219.27
+        "price": 218.61
       },
       {
         "date": "2025-06",
-        "price": 225.28
+        "price": 224.6
       },
       {
         "date": "2025-07",
-        "price": 215.09
+        "price": 214.45
       },
       {
         "date": "2025-08",
-        "price": 213.44
+        "price": 212.8
       },
       {
         "date": "2025-09",
-        "price": 204.69
+        "price": 204.08
       },
       {
         "date": "2025-10",
-        "price": 207.71
+        "price": 207.09
       },
       {
         "date": "2025-11",
-        "price": 199.47
+        "price": 198.87
       },
       {
         "date": "2025-12",
-        "price": 202.48
+        "price": 201.87
       },
       {
         "date": "2026-01",
-        "price": 236.14
+        "price": 235.43
       },
       {
         "date": "2026-02",
-        "price": 254.07
+        "price": 253.31
       },
       {
         "date": "2026-03",
-        "price": 235.76
+        "price": 235.05
       },
       {
         "date": "2026-04",
-        "price": 223.55
+        "price": 222.88
       },
       {
         "date": "2026-05",
-        "price": 249.46
+        "price": 248.71
       },
       {
         "date": "2026-06",
-        "price": 223.9
+        "price": 223.23
       },
       {
         "date": "2026-07",
-        "price": 243.05
+        "price": 242.32
       },
       {
         "date": "2026-08",
-        "price": 246.21
+        "price": 233.96
       }
     ]
   },
@@ -221,9 +221,9 @@
     "metadata": {
       "name": "Siemens Aktiengesellschaft",
       "summary": "Siemens Aktiengesellschaft, a technology company, focuses in the areas of automation and digitalization across the world. It operates through Digital Industries, Smart Infrastructure, Mobility, Siemens Healthineers, and Siemens Financial Services (SFS) segments. The Digital Industries segment provides automation systems and software for factories, numerical control systems, servo motors, drives and inverters, and integrated automation systems for machine tools and production machines; process control systems, machine-to-machine communication products, sensors and radio frequency identification systems; production and product lifecycle management software, and simulation and testing of mechatronic system. The Smart Infrastructure segment offers products, systems, solutions, services, and software to support sustainable transition from fossil and renewable energy sources; sustainable buildings and communities; and buildings, electrification, and electrical products. The Mobility segment provides rail passenger and freight transportation, such as metro systems, trams and light rail, and commuter trains, as well as trains and passenger coaches; locomotives and solutions for automated transportation and leasing; products and solutions for rail automation and electrification; maintenance and digital services; and digital and cloud-based solutions, and related services. The Siemens Healthineers segment develops, manufactures, and sells various diagnostic and therapeutic products and services; and provides clinical consulting and training services. Its financial services segment offers debt and equity investments; leasing, lending, and working capital; structured, equipment, and project financing; and financial advisory services. It has a strategic collaboration with IFS to improve product lifecycle with industrial AI. The company was founded in 1847 and is headquartered in Munich, Germany.",
-      "valuation": 249122570240,
-      "ytd_growth": "7.02%",
-      "total_return": "64.02%",
+      "valuation": 252660580352,
+      "ytd_growth": "8.54%",
+      "total_return": "66.35%",
       "type": "Stock",
       "holdings": "N/A"
     },
@@ -322,7 +322,7 @@
       },
       {
         "date": "2026-08",
-        "price": 161.95
+        "price": 164.25
       }
     ]
   },
@@ -330,9 +330,9 @@
     "metadata": {
       "name": "Keysight Technologies, Inc.",
       "summary": "Keysight Technologies, Inc. provides electronic design and test solutions worldwide. The company operates through Communications Solutions Group and Electronic Industrial Solutions Group segments. It offers electronic design and test software, instrumentation, systems, and related services used in the design, simulation, validation, manufacturing, installation, and optimization of communication systems in wireless, data center ecosystem, enterprise, and aerospace, defense, and government end markets. The company also develops and deploys communications products and services; and operates communications networks. In addition, it provides electronic design, test and simulation software, instrumentation, systems, computer-aided engineering solutions, and related services used in the design, simulation, validation, manufacturing, installation, and optimization of electronic equipment in the automotive and energy, semiconductor solutions, and general electronics industries. Further, the company offers product support; technical and application support for hardware, software, and solutions; and professional services, such as installation, training, engineering, optimization of equipment and solution adoption, utilization, and integration services. Additionally, it provides oscilloscopes; generators, sources and power supplies; software products; analyzers; wireless products; network test and security; modular instruments; meters; network visibility; and other products, as well as KeysightCare support plans, calibration, repair, technology refresh, test as a service, network/security, consulting, financial alternatives, education, software testing, support, managed, device vulnerability analysis, support portal, and used equipment services. Keysight Technologies, Inc. was founded in 1939 and is headquartered in Santa Rosa, California.",
-      "valuation": 58270191616,
-      "ytd_growth": "57.62%",
-      "total_return": "114.54%",
+      "valuation": 61149777920,
+      "ytd_growth": "65.4%",
+      "total_return": "125.14%",
       "type": "Stock",
       "holdings": "N/A"
     },
@@ -431,7 +431,7 @@
       },
       {
         "date": "2026-08",
-        "price": 340.97
+        "price": 357.82
       }
     ]
   }
