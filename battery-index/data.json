@@ -4,8 +4,8 @@
       "name": "Global X Lithium & Battery Tech ETF",
       "summary": "The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts (\"ADRs\") and Global Depositary Receipts (\"GDRs\") based on the securities in the underlying index. The underlying index is designed to measure broad-based equity market performance of global companies involved in the lithium industry. The fund is non-diversified.",
       "valuation": 1643735296,
-      "ytd_growth": "-0.9%",
-      "total_return": "61.37%",
+      "ytd_growth": "-0.53%",
+      "total_return": "57.13%",
       "type": "ETF",
       "holdings": [
         "RIO",
@@ -16,10 +16,6 @@
       ]
     },
     "prices": [
-      {
-        "date": "2024-10",
-        "price": 42.77
-      },
       {
         "date": "2024-11",
         "price": 44.09
@@ -110,7 +106,11 @@
       },
       {
         "date": "2026-09",
-        "price": 69.02
+        "price": 68.42
+      },
+      {
+        "date": "2026-10",
+        "price": 69.28
       }
     ]
   },
@@ -119,8 +119,8 @@
       "name": "Sprott Lithium Miners ETF",
       "summary": "The fund will, under normal circumstances, invest at least 80% of its total assets in securities of the index. The index is designed to track the performance of companies that derive at least 50% of their revenue and/or assets from mining, exploration, development, or production of lithium. The index generally consists of from 40 to 50 constituents. The fund is non-diversified.",
       "valuation": 43130260,
-      "ytd_growth": "-26.18%",
-      "total_return": "27.13%",
+      "ytd_growth": "-30.81%",
+      "total_return": "22.4%",
       "type": "ETF",
       "holdings": [
         "SQM",
@@ -131,10 +131,6 @@
       ]
     },
     "prices": [
-      {
-        "date": "2024-10",
-        "price": 7.52
-      },
       {
         "date": "2024-11",
         "price": 7.32
@@ -225,7 +221,11 @@
       },
       {
         "date": "2026-09",
-        "price": 9.56
+        "price": 9.21
+      },
+      {
+        "date": "2026-10",
+        "price": 8.96
       }
     ]
   },
@@ -234,8 +234,8 @@
       "name": "Proshares S&P Global Core Battery Metals ETF",
       "summary": "The fund invests in financial instruments that ProShare Advisors believes, in combination, should track the performance of the index. The index is designed to measure the performance of companies in the S&P Global Broad Market Index engaged in the mining of cobalt, lithium, and nickel\u2014base metals used to produce batteries. Under normal circumstances, it will invest at least 80% of its total assets in components of the index or in instruments with similar economic characteristics. It is non-diversified.",
       "valuation": 13434080,
-      "ytd_growth": "-18.54%",
-      "total_return": "67.49%",
+      "ytd_growth": "-20.38%",
+      "total_return": "68.51%",
       "type": "ETF",
       "holdings": [
         "IGO.AX",
@@ -246,10 +246,6 @@
       ]
     },
     "prices": [
-      {
-        "date": "2024-10",
-        "price": 27.78
-      },
       {
         "date": "2024-11",
         "price": 26.99
@@ -340,7 +336,11 @@
       },
       {
         "date": "2026-09",
-        "price": 46.53
+        "price": 45.54
+      },
+      {
+        "date": "2026-10",
+        "price": 45.48
       }
     ]
   },
@@ -349,16 +349,12 @@
       "name": "iShares S&P GSCI Commodity-Indexed Trust",
       "summary": "The Trust holds long positions in index futures that have settlement values at expiration based on the level of the S&P GSCI-ER at that time, and earning interest on its non-cash Collateral Assets used to satisfy applicable margin requirements on those index futures positions. The index reflects the return of the S&P GSCI-ER, together with the return on specified U.S. Treasury securities that are deemed to have been held to collateralize a hypothetical long position in the futures contracts comprising the S&P GSCI\u2122.",
       "valuation": 1007052672,
-      "ytd_growth": "40.86%",
-      "total_return": "68.5%",
+      "ytd_growth": "40.23%",
+      "total_return": "69.02%",
       "type": "ETF",
       "holdings": []
     },
     "prices": [
-      {
-        "date": "2024-10",
-        "price": 21.3
-      },
       {
         "date": "2024-11",
         "price": 21.14
@@ -449,7 +445,11 @@
       },
       {
         "date": "2026-09",
-        "price": 35.89
+        "price": 35.57
+      },
+      {
+        "date": "2026-10",
+        "price": 35.73
       }
     ]
   }

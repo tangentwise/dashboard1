@@ -3,17 +3,13 @@
     "metadata": {
       "name": "Emerson Electric Co.",
       "summary": "Emerson Electric Co., a technology and software company, provides various solutions in the Americas, Asia, the Middle East, Africa, and Europe. It operates through Final Control, Measurement & Analytical, Discrete Automation, Safety & Productivity, Control Systems & Software, and Test & Measurement segments. The Final Control segment provides control valves, isolation valves, shutoff valves, pressure relief valves, pressure safety valves, actuators, and regulators for process and hybrid industries under Anderson Greenwood, Bettis, Crosby, Fisher, Keystone, KTM, and Vanessa brands. The Measurement & Analytical segment supplies intelligent instrumentation measuring the physical properties of liquids or gases, such as pressure, temperature, level, flow, acoustics, corrosion, pH, conductivity, water quality, toxic gases, and flame under the Flexim, Micro Motion, and Rosemount brands. The Discrete Automation segment includes solenoid valves, pneumatic valves, valve position indicators, pneumatic cylinders and actuators, air preparation equipment, pressure and temperature switches, electric linear motion solutions, programmable automation control systems and software, electrical distribution equipment, and materials joining solutions used primarily in discrete industries under the Afag, Appleton, ASCO, Aventics, Branson, Movicon, PACSystems, SolaHD, TESCOM, and TopWorx brands. The Safety & Productivity segment delivers tools for professionals and homeowners that support infrastructure, promote safety, and enhance productivity under the Greenlee, Klauke, ProTeam, and RIDGID brands. The Control Systems & Software segment provides control systems and software that control plant processes by collecting and analyzing information from measurement devices in the plant under the DeltaV and Ovation brands. The Test & Measurement offers software-connected automated test and measurement systems. The company was incorporated in 1890 and is headquartered in Saint Louis, Missouri.",
-      "valuation": 88624619520,
-      "ytd_growth": "8.88%",
-      "total_return": "50.94%",
+      "valuation": 90146062336,
+      "ytd_growth": "11.21%",
+      "total_return": "25.36%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
-      {
-        "date": "2024-10",
-        "price": 104.83
-      },
       {
         "date": "2024-11",
         "price": 128.92
@@ -104,7 +100,11 @@
       },
       {
         "date": "2026-09",
-        "price": 158.23
+        "price": 155.1
+      },
+      {
+        "date": "2026-10",
+        "price": 161.61
       }
     ]
   },
@@ -112,17 +112,13 @@
     "metadata": {
       "name": "Honeywell International Inc.",
       "summary": "Honeywell International Inc. engages in the industrial automation, building automation, and energy and sustainability solutions businesses in the United States, Europe, and internationally. The Industrial Automation segment provides automation control and instrumentation products and services; smart energy products; sensing technologies, including custom-engineered sensors and related services; gas detection technologies and personal protective equipment; and system design automation equipment, as well as software and analytics for manufacturing, distribution, and fulfillment operations. The Building Automation segment provides software applications for building control and optimization; sensors, switches, control systems, and instruments for energy management; access control; video surveillance; fire products; and installation, maintenance, and system upgrade services. The Energy and Sustainability Solutions segment, through its UOP business, delivers licensed process technology, equipment, engineering, catalysts, adsorbents, and services for refining, petrochemicals, low-carbon energy, gas and LNG, and industrial solutions, as well as connectivity, data integration, and software solutions. The company was formerly known as AlliedSignal, Inc. Honeywell International Inc. was founded in 1885 and is headquartered in Charlotte, North Carolina.",
-      "valuation": 67365597184,
-      "ytd_growth": "-9.72%",
-      "total_return": "8.8%",
+      "valuation": 67821993984,
+      "ytd_growth": "-9.11%",
+      "total_return": "-3.75%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
-      {
-        "date": "2024-10",
-        "price": 195.35
-      },
       {
         "date": "2024-11",
         "price": 222.32
@@ -213,7 +209,11 @@
       },
       {
         "date": "2026-09",
-        "price": 212.55
+        "price": 210.94
+      },
+      {
+        "date": "2026-10",
+        "price": 213.99
       }
     ]
   },
@@ -221,17 +221,13 @@
     "metadata": {
       "name": "Siemens Aktiengesellschaft",
       "summary": "Siemens Aktiengesellschaft, a technology company, focuses in the areas of automation and digitalization across the world. It operates through Digital Industries, Smart Infrastructure, Mobility, Siemens Healthineers, and Siemens Financial Services (SFS) segments. The Digital Industries segment provides automation systems and software for factories, numerical control systems, servo motors, drives and inverters, and integrated automation systems for machine tools and production machines; process control systems, machine-to-machine communication products, sensors and radio frequency identification systems; production and product lifecycle management software, and simulation and testing of mechatronic system. The Smart Infrastructure segment offers products, systems, solutions, services, and software to support sustainable transition from fossil and renewable energy sources; sustainable buildings and communities; and buildings, electrification, and electrical products. The Mobility segment provides rail passenger and freight transportation, such as metro systems, trams and light rail, and commuter trains, as well as trains and passenger coaches; locomotives and solutions for automated transportation and leasing; products and solutions for rail automation and electrification; maintenance and digital services; and digital and cloud-based solutions, and related services. The Siemens Healthineers segment develops, manufactures, and sells various diagnostic and therapeutic products and services; and provides clinical consulting and training services. Its financial services segment offers debt and equity investments; leasing, lending, and working capital; structured, equipment, and project financing; and financial advisory services. It has a strategic collaboration with IFS to improve product lifecycle with industrial AI. The company was founded in 1847 and is headquartered in Munich, Germany.",
-      "valuation": 244412366848,
-      "ytd_growth": "5.5%",
-      "total_return": "68.32%",
+      "valuation": 237706919936,
+      "ytd_growth": "2.61%",
+      "total_return": "63.77%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
-      {
-        "date": "2024-10",
-        "price": 94.85
-      },
       {
         "date": "2024-11",
         "price": 94.81
@@ -322,7 +318,11 @@
       },
       {
         "date": "2026-09",
-        "price": 159.65
+        "price": 155.3
+      },
+      {
+        "date": "2026-10",
+        "price": 155.27
       }
     ]
   },
@@ -330,17 +330,13 @@
     "metadata": {
       "name": "Keysight Technologies, Inc.",
       "summary": "Keysight Technologies, Inc. provides electronic design and test solutions worldwide. The company operates through Communications Solutions Group and Electronic Industrial Solutions Group segments. It offers electronic design and test software, instrumentation, systems, and related services used in the design, simulation, validation, manufacturing, installation, and optimization of communication systems in wireless, data center ecosystem, enterprise, and aerospace, defense, and government end markets. The company also develops and deploys communications products and services; and operates communications networks. In addition, it provides electronic design, test and simulation software, instrumentation, systems, computer-aided engineering solutions, and related services used in the design, simulation, validation, manufacturing, installation, and optimization of electronic equipment in the automotive and energy, semiconductor solutions, and general electronics industries. Further, the company offers product support; technical and application support for hardware, software, and solutions; and professional services, such as installation, training, engineering, optimization of equipment and solution adoption, utilization, and integration services. Additionally, it provides oscilloscopes; generators, sources and power supplies; software products; analyzers; wireless products; network test and security; modular instruments; meters; network visibility; and other products, as well as KeysightCare support plans, calibration, repair, technology refresh, test as a service, network/security, consulting, financial alternatives, education, software testing, support, managed, device vulnerability analysis, support portal, and used equipment services. Keysight Technologies, Inc. was founded in 1939 and is headquartered in Santa Rosa, California.",
-      "valuation": 61654134784,
-      "ytd_growth": "67.41%",
-      "total_return": "143.04%",
+      "valuation": 65482944512,
+      "ytd_growth": "77.8%",
+      "total_return": "125.15%",
       "type": "Stock",
       "holdings": "N/A"
     },
     "prices": [
-      {
-        "date": "2024-10",
-        "price": 149.01
-      },
       {
         "date": "2024-11",
         "price": 170.84
@@ -431,7 +427,11 @@
       },
       {
         "date": "2026-09",
-        "price": 362.15
+        "price": 364.04
+      },
+      {
+        "date": "2026-10",
+        "price": 384.64
       }
     ]
   }
